@@ -1,4 +1,4 @@
-package com.example.Sprint;
+package com.capg.entity;
 
 import java.util.List;
 
